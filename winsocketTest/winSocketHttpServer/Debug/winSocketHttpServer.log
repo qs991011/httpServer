@@ -1,0 +1,3 @@
+﻿  httpServerTool.cpp
+c:\users\96900\desktop\winsocket\winsockettest\winsockethttpserver\httpservertool.cpp(67): warning C4101: “nwritten”: 未引用的局部变量
+  winSocketHttpServer.vcxproj -> C:\Users\96900\Desktop\winsocket\winsocketTest\Debug\winSocketHttpServer.exe
